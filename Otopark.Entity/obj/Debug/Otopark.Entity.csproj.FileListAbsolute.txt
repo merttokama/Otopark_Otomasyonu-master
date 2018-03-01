@@ -1,0 +1,9 @@
+C:\Users\mertt\Desktop\Otopark_Otomasyonu\Otopark.Entity\bin\Debug\Otopark.Entity.dll
+C:\Users\mertt\Desktop\Otopark_Otomasyonu\Otopark.Entity\bin\Debug\Otopark.Entity.pdb
+C:\Users\mertt\Desktop\Otopark_Otomasyonu\Otopark.Entity\obj\Debug\Otopark.Entity.csprojResolveAssemblyReference.cache
+C:\Users\mertt\Desktop\Otopark_Otomasyonu\Otopark.Entity\obj\Debug\Otopark.Entity.dll
+C:\Users\mertt\Desktop\Otopark_Otomasyonu\Otopark.Entity\obj\Debug\Otopark.Entity.pdb
+C:\Users\mertt\Desktop\Otopark_Otomasyonu-master\Otopark.Entity\bin\Debug\Otopark.Entity.dll
+C:\Users\mertt\Desktop\Otopark_Otomasyonu-master\Otopark.Entity\bin\Debug\Otopark.Entity.pdb
+C:\Users\mertt\Desktop\Otopark_Otomasyonu-master\Otopark.Entity\obj\Debug\Otopark.Entity.dll
+C:\Users\mertt\Desktop\Otopark_Otomasyonu-master\Otopark.Entity\obj\Debug\Otopark.Entity.pdb

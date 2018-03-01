@@ -1,0 +1,14 @@
+C:\Users\mertt\Desktop\Otopark_Otomasyonu\Otopark.DAL\obj\Debug\Otopark.DAL.csprojResolveAssemblyReference.cache
+C:\Users\mertt\Desktop\Otopark_Otomasyonu\Otopark.DAL\bin\Debug\Otopark.DAL.dll
+C:\Users\mertt\Desktop\Otopark_Otomasyonu\Otopark.DAL\bin\Debug\Otopark.DAL.pdb
+C:\Users\mertt\Desktop\Otopark_Otomasyonu\Otopark.DAL\bin\Debug\Otopark.Entity.dll
+C:\Users\mertt\Desktop\Otopark_Otomasyonu\Otopark.DAL\bin\Debug\Otopark.Entity.pdb
+C:\Users\mertt\Desktop\Otopark_Otomasyonu\Otopark.DAL\obj\Debug\Otopark.DAL.dll
+C:\Users\mertt\Desktop\Otopark_Otomasyonu\Otopark.DAL\obj\Debug\Otopark.DAL.pdb
+C:\Users\mertt\Desktop\Otopark_Otomasyonu-master\Otopark.DAL\bin\Debug\Otopark.DAL.dll
+C:\Users\mertt\Desktop\Otopark_Otomasyonu-master\Otopark.DAL\bin\Debug\Otopark.DAL.pdb
+C:\Users\mertt\Desktop\Otopark_Otomasyonu-master\Otopark.DAL\bin\Debug\Otopark.Entity.dll
+C:\Users\mertt\Desktop\Otopark_Otomasyonu-master\Otopark.DAL\bin\Debug\Otopark.Entity.pdb
+C:\Users\mertt\Desktop\Otopark_Otomasyonu-master\Otopark.DAL\obj\Debug\Otopark.DAL.csprojResolveAssemblyReference.cache
+C:\Users\mertt\Desktop\Otopark_Otomasyonu-master\Otopark.DAL\obj\Debug\Otopark.DAL.dll
+C:\Users\mertt\Desktop\Otopark_Otomasyonu-master\Otopark.DAL\obj\Debug\Otopark.DAL.pdb
